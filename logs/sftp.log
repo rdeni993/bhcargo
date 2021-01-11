@@ -176,3 +176,18 @@ Jan 11 13:06:53 10.71.60.0 u103366579 session closed for local user u103366579 f
 Jan 11 13:06:54 10.71.60.0 u103366579 Connection closed by 10.71.60.0 port 33612
 Jan 11 13:08:45 10.71.60.0 u103366579 remove name "/app/Views/meta/cookies.php"
 Jan 11 13:08:45 10.71.60.0 u103366579 [10.71.60.0|rm|0|0|0|0|0|2f6170702f56696577732f6d6574612f636f6f6b6965732e706870|]
+Jan 11 13:19:01 10.71.60.0 u103366579 Connection from 10.71.60.0 port 14234 on 74.208.56.98 port 22
+Jan 11 13:19:02 10.71.60.0 u103366579 Accepted password for u103366579 from 10.71.60.0 port 14234 ssh2
+Jan 11 13:19:02 10.71.60.0 u103366579 Starting session: subsystem 'sftp' for u103366579 from 10.71.60.0 port 14234 id 0
+Jan 11 13:19:02 10.71.60.0 u103366579 session opened for local user u103366579 from [10.71.60.0]
+Jan 11 13:19:04 10.71.60.0 u103366579 open "/.gitignore" flags READ mode 0666
+Jan 11 13:19:04 10.71.60.0 u103366579 close "/.gitignore" bytes read 26 written 0
+Jan 11 13:19:04 10.71.60.0 u103366579 [10.71.60.0|get|0|26|0|0|0|2f2e67697469676e6f7265|]
+Jan 11 13:19:17 10.71.60.0 u103366579 open "/.gitignore" flags READ mode 0666
+Jan 11 13:19:17 10.71.60.0 u103366579 close "/.gitignore" bytes read 26 written 0
+Jan 11 13:19:17 10.71.60.0 u103366579 [10.71.60.0|get|0|26|0|0|0|2f2e67697469676e6f7265|]
+Jan 11 13:19:24 10.71.60.0 u103366579 open "/.gitignore" flags READ mode 0666
+Jan 11 13:19:25 10.71.60.0 u103366579 close "/.gitignore" bytes read 26 written 0
+Jan 11 13:19:25 10.71.60.0 u103366579 [10.71.60.0|get|1|26|0|0|0|2f2e67697469676e6f7265|]
+Jan 11 13:20:25 10.71.60.0 u103366579 session closed for local user u103366579 from [10.71.60.0]
+Jan 11 13:20:25 10.71.60.0 u103366579 Connection closed by 10.71.60.0 port 14234
