@@ -24,3 +24,9 @@ if(!function_exists('user_active')){
         return ( $exp > $currentDate ) ? true : false;
     }
 }
+
+if(!function_exists('cookie_display')){
+    function cookie_display(){
+        return view('meta/cookies');
+    }
+}

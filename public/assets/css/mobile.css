@@ -200,4 +200,11 @@ Mobile CSS Queries
         display: none;
     }
 
+    .cookie-content{
+        width: 90%;
+        padding: 30px;
+        margin: auto;
+        margin-top: 80px;
+    }
+
 }

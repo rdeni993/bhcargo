@@ -31,3 +31,9 @@
 <div class="main-loader" id="preloader">
     <img src="<?php echo base_url('public/assets/img/loader.gif'); ?>" alt="pre-loader" />
 </div>
+
+<?php 
+if(!get_cookie('bh-cargo-basic-cookie')){
+    echo cookie_display(); 
+}
+?>
