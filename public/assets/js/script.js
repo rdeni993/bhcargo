@@ -1,4 +1,4 @@
-const websiteRoot = "http://localhost/bhcargo/";
+const websiteRoot = "https://www.bhcargo.com/";
 
 function baseUrl(uri){ return websiteRoot+uri; }
 
