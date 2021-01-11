@@ -94,39 +94,7 @@
 
 </div>
 <!-- EOF: Template -->
-<script src="https://www.paypal.com/sdk/js?currency=EUR&client-id=AamkYXgFgOgbQ-xGWnT9Ws-gxrms0Nyj75pS5oG0JfyfWAVNPVg3kF9ZaAYgVZ4IvSAso8tmyS8IMFQJ"></script>
-<script>
-    function initPayPalButton(initValue, el) {
-      paypal.Buttons({
-        style: {
-          shape: 'rect',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'paypal',
-          
-        },
 
-        createOrder: function(data, actions) {
-          return actions.order.create({
-            purchase_units: [{"description":"Weekly subscription","amount":{"currency_code":"EUR","value":initValue}}]
-          });
-        },
-
-        onApprove: function(data, actions) {
-            return location.href = baseUrl('extend/extend_contract?_r=s&_v=' + initValue);
-        },
-
-        onError: function(err) {
-          console.log(err);
-            return location.href = baseUrl('extend/extend_contract?_r=f&_v=' + 0);
-        }
-      }).render(el);
-    }
-    /** */
-    initPayPalButton(3, "#week-subs");
-    initPayPalButton(10, "#month-subs");
-    initPayPalButton(60, "#year-subs");
-</script>
 
 <!-- Footer -->
 <?php echo $footer; ?>
