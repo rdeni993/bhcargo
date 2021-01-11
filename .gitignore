@@ -1,1 +1,7 @@
 logs/traffic.html/.md5sums
+logs/*
+writable/*
+app/Config/Database.php
+app/Config/App.php
+index.php
+.htaccess
