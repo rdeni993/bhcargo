@@ -1,0 +1,26 @@
+CRITICAL - 2021-01-11 11:34:10 --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Head...', '/homepages/14/d...', 101, Array)
+#1 /homepages/14/d856189614/htdocs/system/Session/Handlers/FileHandler.php(101): ini_set('session.save_pa...', '/homepages/14/d...')
+#2 /homepages/14/d856189614/htdocs/system/Config/Services.php(763): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\App), '109.175.103.12')
+#3 /homepages/14/d856189614/htdocs/system/Config/BaseService.php(123): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#4 /homepages/14/d856189614/htdocs/system/Config/Services.php(752): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#5 /homepages/14/d856189614/htdocs/system/Common.php(894): CodeIgniter\Config\Services::session()
+#6 /homepages/14/d856189614/htdocs/app/Helpers/login_helper.php(6): session()
+#7 /homepages/14/d856189614/htdocs/app/Views/parts/nav.php(5): logged_in()
+#8 /homepages/14/d856189614/htdocs/system/View/View.php(246): include('/homepages/14/d...')
+#9 /homepages/14/d856189614/htdocs/system/Common.php(1087): CodeIgniter\View\View->render('parts/nav', Array, true)
+#10 /homepages/14/d856189614/htdocs/app/Controllers/Welcome.php(29): view('parts/nav')
+#11 /homepages/14/d856189614/htdocs/system/CodeIgniter.php(914): App\Controllers\Welcome->index()
+#12 /homepages/14/d856189614/htdocs/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Welcome))
+#13 /homepages/14/d856189614/htdocs/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /homepages/14/d856189614/htdocs/index.php(60): CodeIgniter\CodeIgniter->run()
+#15 {main}
+CRITICAL - 2021-01-11 11:34:10 --> Uncaught ErrorException: Cannot modify header information - headers already sent by (output started at /homepages/14/d856189614/htdocs/index.php:9) in /homepages/14/d856189614/htdocs/system/Debug/Exceptions.php:162
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/homepages/14/d...', 162, Array)
+#1 /homepages/14/d856189614/htdocs/system/Debug/Exceptions.php(162): header('HTTP/1.1 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
