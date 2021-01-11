@@ -10,7 +10,7 @@
     <div class="container-fluid m-0 p-0 content-place">
         <div class="container py-80">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-8">
                         
                     <h1 class="mb-4">BH Cargo</h1>
 
@@ -98,7 +98,7 @@
                         <li class="my-2">Registracija na servis je besplatna. Slobodni korisnici neće imati uvid u detaljnije podatke o uslugama kao što su 
                             objavljeni podaci o teretima i objavljeni podaci o prijevozima koje su plaćeni korisnici postavili! 
                         </li>
-                        <l class="my-2"i>Slobodni korisnici, čiji su nalozi istekli ili ih nisu ni aktivirali ne mogu objavljivati na stranicama!
+                        <li class="my-2"i>Slobodni korisnici, čiji su nalozi istekli ili ih nisu ni aktivirali ne mogu objavljivati na stranicama!
                             Naš cilj je stvoriti platformu okruženu ozbiljnim i pouzdanim partnerima!
                         </li>
                         <li class="my-2">Svi korisnici čiji su nalozi aktivni imaju pravo na tehničku podršku i administratori su u obavezi da ih 
@@ -143,75 +143,119 @@
                             </li>
                         </ol>
 
-                    <h1 class="my-4">Politika privatnosti</h1>
-                    <h2 class="my-4">Uvodna riječ</h2>
-                    <p class="text-secondary">Svaki korisnik nam je važan kao i njegova privatnost! Međutim pojedini podaci koje korisnik 
-                        unosi biće vidljivi drugim korisnicima. Ti podaci su važni za poslovanje i korisnici moraju biti svjesni toga.
-                        Ti podaci su:
-                        <ul>
-                            <li>Ime</li>
-                            <li>Prezime</li>
-                            <li>Broj telefona</li>
-                            <li>Naziv komanije</li>
-                            <li>Adresa kompanije!</li>
-                        </ul>
+                    <h1 class="my-4" id="cookies">Politika privatnosti</h1>
+
+                    <h2>Pravila o zaštiti privatnosti</h2>
+                    <p>BHCargo poštuje vašu privatnost i temelji svoju internetsku stranicu na tehnologijama koje pružaju bolje i sigurnije mrežno iskustvo. Ova pravila o zaštiti privatnosti odnosi se na prikupljanje i obradu Vaših osobnih podataka te primjenu kolačića (cookies) na internetskoj stranici www.bhcargo.com (u nastavku: internetska stranica).
+                    Molimo da pažljivo pročitate naša pravila o zaštiti privatnosti kako biste dobili jasnu sliku o tome kako mi prikupljamo, koristimo, štitimo ili na drugi način rukujemo Vašim Osobno identificirajućim podacima, sukladno uvjetima na našoj internet stranici.
+                    Korištenjem ove internetske stranice suglasni ste s načinom prikupljanja i obrade podataka opisanim u ovim pravilima te pohranom i pristupom kolačićima na vašem uređaju.
                     </p>
-                    <div class="text-secondary">
-                        <p>Podaci o financijskom poslovanju, cijenama i ostali slični podaci nikada neće biti traženi od strane 
-                            BH Cargo servisa!
-                        </p>
-                    </div>
-                    <h2 class="my-4">Koje podatke skupljamo</h2>
-                    <div class="text-secondary">
-                        <p>Važno je da svaki korisnik shvati da BH Cargo sakuplja određene podatke od svojih korisnika kako bi im 
-                            omogućio bolju uslugu i veću sigurnost na samom servisu. Podatke koje automatski možemo skupljati su :
+                
+                    <ol>
+                        <li>
+                            <h2>KOJE OSOBNE PODATKE PRIKUPLJAMO OD KORISNIKA KOJI POSJEĆUJU I KORISTE NAŠU INTERNETSKU STRANICU?</h2>
+                            <p>Kako bi održao funkcionalnost internetske stranice i omogućio usluge koje korisnici traže, BHCargo na ovoj web lokaciji može prikupljati i upotrebljavati osobne podatke korisnika. Putem internetske stranice bhcargo.com moguće je, ovisno o svrsi, prikupljanje vaših osobnih podataka 
+                            kao što su: Ime i prezime, adresa e-pošte, kućna ili poslovna adresa, telefonski broj</p>
+                            <p>Upisom osobnih podataka ili prilaganjem dokumentacije u za to predviđena polja dajete suglasnost da se navedeni podaci upotrebljavaju u svrhu za koju su dani.
+                            BHCargo prikuplja podatke o Vašem računalu. Ovi podaci mogu uključivati Vaš tip preglednika, vrijeme pristupa i adrese web stranica.
+                            </p>
+                            <p>BHCargo prikuplja podatke o klijentu i izvan ovog web-mjesta, na temelju obrazaca upitnika uz suglasnost klijenta i u svrhe navedene u tim obrascima.
+                            Prikupljene podatke, kao i podatke koje je saznao na osnovi pružanja usluga klijentima i u obavljanju poslova s pojedinačnim klijentom, BHCargo obrađuje u svrhu u koju su isti dani, odnosno u svrhu korištenja web stranica i pružanja željenih usluga te kako bi Vam pružio informacije o proizvodima ili uslugama koje možete koristiti.
+                            BHCargo može koristiti navedene podatke kako bi Vam pružio učinkovitiju korisničku uslugu, olakšao korištenje web stranica uklanjanjem potrebe za učestalim upisivanjem istih podataka ili za prilagodbu web stranica Vašim osobnim sklonostima i interesima.
+                            </p>    
+                            <p>BHCargo ne prodaje, ne iznajmljuje i ne posuđuje popis korisnika svojih stranica trećim stranama. Uz obvezu zadržavanja povjerljivosti.
+                            Ovime Vas BHCargo ujedno informira da imate pravo na pristup svim danim osobnim podacima, kao i na njihov ispravak, pravo naknadno odustati od prethodno danih suglasnosti, djelomično ili u cijelosti, kao i pravo usprotiviti se obradi osobnih podataka u svrhe pružanja informacija o proizvodima ili uslugama.
+                            Prilikom registracije na našoj web stranici, ovisno o slučaju, može se od Vas tražiti da unesete Vaše ili pak druge podatke kako biste nam pomogli omogućiti Vam da na pravi način doživite iskustvo korištenja naših stranica.
+                            </p>
+                        </li>
+                        <li>
+                            <h2>KADA I KOJE PODATKE PRIKUPLJAMO PODATKE TE KOLIKO IH DUGO ČUVAMO?</h2>
                             <ul>
-                                <li>IP adresa</li>
-                                <li>Podaci o operativnom sistemu uređaja</li>
-                                <li>Vrsta i verzija WEB pretraživača</li>
-                                <li>Lokacija</li>
+                                <li>Prilikom registracije radi korištenja naših usluga i to: ime i prezime, e-adresa</li>
+                                <li>Prilikom prijave u naš tim stručnjaka i to: ime i prezime, e-adresa, broj mobitela</li>
+                                <li>Neke osobne podatke prikupljamo jer smo dužni radi poštivanja zakonskih i podzakonskih propisa. </li>
+                                <li>Kada nam Vi podnesete prigovor, reklamaciju ili upit</li>
                             </ul>
-                        </p>
-                        <p>Podaci koji su važni za statistiku profila a koje automatski sakupljamo su:</p>
-                        <ul>
-                            <li>Vrijeme posjete</li>
-                            <li>Dužina trajanja posjete</li>
-                            <li>Koje dijelove aplikacije te posvećivali </li>
-                        </ul>
-                        <p>Podatke koje sakupljamo kroz forme su:</p>
-                        <ul>
-                            <li>Vaše lično ime i prezime</li>
-                            <li>Adresa Vaše kompanije</li>
-                            <li>Mjesto zaposlenja</li>
-                            <li>Podatke o vašem teretu</li>
-                            <li>Podatke o prijevozu koji nudite</li>
-                            <li>Podatke o tipu vozila</li>
-                            <li>Broj telefona korisnika</li>
-                        </ul>
-                        <p><b>Svi gore navedeni podaci su bitni za funkcionisanje aplikacije i ne mogu se isključiti!</b></p>
-                        <p>Ako postoji i najmanji problem ili nesigurnost kod pružanja podataka onda se nemojte registrovati na servis
-                            ili nas kontaktirajte oko nejasnoća!
-                        </p>
-                        <p>Podaci koje sakupljamo su bitni kako bi se servis automatski mogao prilagoditi isključivo Vama
-                            pružajući Vam najbolje korisničko iskustvo. Takođe podatke skupljamo kako bi Vam omogućili 
-                            pronalaženje ispravnih podataka vezanih za Vaše poslovanje!
-                        </p>
-                        <p>Informacije o E-mail adresi su takođe bitne kako bi omogućili kontakt između nas!</p>
-                        <h2 class="my-2">Kome otkrivamo podatke</h2>
-                        <p>Vaši podaci se moraju otkriti korisnicima koji su zainteresovani za Vaše usluge ali i nadležnim organima kao 
-                            i kompanijama koje predstavljate a koje
-                            od nas to zatraže uz validnu i opravdanu potvrdu!
-                        </p>
-                        <p>
-                            Takođe dio podataka otkrivamo i tzv. third-party aplikacijama kao što je Google Analytics!
-                            Ako se želite bolje upoznati sa Google Analytics možete klikom <a target="_blank" href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage">ovdje</a>
-                        </p>
-                        <h2 class="my-2">Kolačići</h2>
-                        <p>Kolačići <i>(engleski cookie)</i> predstavljaju male datoteke u kojima se nalazi dio podataka koji
-                        naša aplikacija sprema na Vaš uređaj. Kolačići su jako bitan dio aplikacije jer omogućavaju nama 
-                        da potvrdite Vaš identitet a Vama da koristite naše usluge kao što je registracija naloga ili prijava ili čak i 
-                        sam način održavanja naloga.</p>
-                    </div>
+                            <p>Osobne podatke ćemo čuvati u obliku koji omogućuje identifikaciju samo onoliko dugo koliko je potrebno u svrhe radi kojih se osobni podaci obrađuju ili koliko pojedini propisi naše zemlje nalažu voditelju obrade čuvanje osobnih podataka. Osobni podaci se mogu pohraniti na dulje razdoblje pod određenim propisanim uvjetima kao primjerice u statističke svrhe, u svrhe arhiviranja u javnom interesu.
+                            U slučaju kada Vaše podatke obrađujemo temeljem privole, ukoliko opozovete danu privolu prestat ćemo obrađivati Vaše podatke te ih više nećemo upotrebljavati u dane svrhe, no to može rezultirati nemogućnošću korištenja nekim dodatnim pogodnostima koje su vezane za njih.
+                            Molim da uzmete u obzir da Vaše podatke nećemo brisati u navedenim vremenskim intervalima, ukoliko je pokrenut postupak prisilne naplate neplaćenih dospjelih potraživanja ili ako je pokrenut drugi postupak, tada će osobni podaci biti brisani po konačnom okončanju istog postupka odnosno po zastari tražbina u skladu s propisima kojima se uređuju obvezno-pravni odnosi.
+                            Isto tako, ukoliko se radi o osobnim podacima koji su prikupljeni u svrhu zaključenja ugovora (npr. ugovor o pružanju usluga), takve ugovore ćemo radi zaštite naših i Vaših prava i interesa čuvati još 5 godina od njihova zaključenja i/ili izvršenja.
+                            </p>
+                        </li>
+                        <li>
+                            <h2>KAKO MI KORISTIMO VAŠE PODATKE?</h2>
+                            <p>Mi možemo koristiti podatke prikupljene od Vas kad se registrirate, dogovorite sastanak ili koristite određene druge sadržaje web stranice isključivo u svrhu radi koje su osobni podaci dani.</p>
+                        </li>
+                        <li>
+                            <h2>KAKO MI ŠTITIMO PODATKE NAŠIH KORISNIKA?</h2>
+                            <p>Internetska stranica bhcargo.com štiti vaše osobne podatke od neovlaštenog pristupa, upotrebe ili odavanja. Podaci na računalnim poslužiteljima pohranjuju se u kontroliranom, sigurnom okruženju, zaštićenom od neovlaštenog pristupa, upotrebe ili odavanja.
+                            Sigurnosna kopija (backup) Vaših osobnih podataka pohranjena je na sigurnom poslužitelju (server) i može joj pristupiti samo ograničen broj osoba koje imaju posebna prava pristupa takvim sustavima, te su u obvezi čuvati takve podatke povjerljivima.
+                            Mi primjenjujemo čitav niz sigurnosnih mjera kad god korisnik unese, podnese ili pristupi svojim informacijama kako bismo održali sigurnost Vaših osobnih podataka. Niti jedna treća strana neće imati pristup pohranjenim podacima.
+                            Prigovor vezan za obradu Vaših osobnih podataka imate pravo uputiti prema BHCargo na e-mail adresu info@bhcargo.com ili support@bhcargo.com.
+                            </p>
+                        </li>
+                        <li>
+                            <h2>KORISTIMO LI MI ‘KOLAČIĆE’ (‘COOKIES’)?</h2>
+                            <p>Na internetskoj stranici bhcargo.com primjenjuju se tzv. kolačići (cookies) – tekstualne datoteke koje na računalo korisnika smješta internetski poslužitelj kojima se korisnik koristi.
+                            Datoteke nastaju kada preglednik na uređaju korisnika učita posjećeno mrežno odredište, koje potom šalje podatke pregledniku te izrađuje tekstualnu datoteku (kolačić). Preglednik dohvaća i šalje datoteku na poslužitelj mrežnog odredišta (mjesta, stranice) prilikom povratka korisnika na njega.
+                            Kolačići se upotrebljavaju za funkcioniranje svih značajki internetskih stranica i bolje korisničko iskustvo, a mogu biti privremeni (pohranjuju se samo tijekom posjeta internetskim stranicama) ili trajni (na računalu korisnika ostaju pohranjeni i nakon posjeta).
+                            </p>
+                            <p>Kolačićima trećih strana bhcargo.com koristi se za dobivanje statističkih podataka o posjećenosti i načinu upotrebe naših internetskih stranica. Podaci koji se prikupljaju uključuju IP adresu korisnika, podatke o pregledniku, jeziku, operativnom sustavu i druge standardne podatke koji se prikupljaju i analiziraju isključivo u anonimnom i masovnom obliku.
+                            Internetska stranica BHCargo ne sadržavaju kolačiće koji omogućuju pokretanje programa ili postavljanje virusa na vaše računalo.
+                            </p>
+                            <p>Stranica bhcargo.com služe se statistikom Google Analytics, a pravila o kolačićima treće strane potražite na Google Analytics. Podatke o tome kako se korisnici koriste našom internetskom stranicom povremeno možemo prikupljati koristeći se i drugim alatima sličnima usluzi Google Analytics.</p>
+                            <p>Vi možete podesiti da Vas računalo upozori svaki puta kad god se šalju cookies, ili pak možete odlučiti isključiti sve „cookies“. Ovo činite u postavkama svog preglednika /browser/ (primjerice, Internet Explorer). Svaki je preglednik malo drugačiji, tako da proučite izbornik Help na Vašem pregledniku kako biste saznali ispravan način podešavanja Vaših cookies.
+                            Ukoliko isključite opciju cookies, neke funkcije koje poboljšavaju učinkovitost korištenja web stranica bit će onemogućene, a neke od naših usluga neće raditi potpuno ispravno.
+                            Međutim, i dalje možete ispostavljati narudžbe i koristiti usluge
+                            </p>
+                            <ul>
+                                <li><h3>KOJE VRSTE KOLAČIĆA POSTOJE?</h3></li>
+                                <p>Kako biste bolje razumjeli kolačiće i kako ih kontrolirati, u nastavku možete saznati koje vrste kolačića postoje te koji se koriste na web stranici.
+                                <b>Kolačići od prve strane</b> (first party cookies)
+                                Kolačići koje je na vaš uređaj instalirala organizacija čiju web stranicu posjećujete poznati su kao kolačići “prve strane”.
+                                <b>Kolačići treće strane</b> (third party cookies)
+                                Kolačići koje je na vaš uređaj web stranicom koju posjećujete instalirala druga organizacija poznati su kao kolačići “treće strane”. Primjer kolačića “treće strane” je kolačić koji je postavila tvrtka specijalizirana za analitiku web stranica (primjerice, Google Analytics) koja vlasniku web stranice daje podatke o broju osoba koji posjećuju istu.
+                                </p>
+                                <p><b>Stalni kolačići</b> (persistent cookies)
+                                Stalni kolačići ostaju spremljeni na vašem uređaju i nakon zatvaranja web preglednika. Uz pomoć ovih kolačića web stranice pohranjuju podatke kako bi vam se olakšalo njihovo korištenje. Primjerice, web stranice koje zahtijevaju unos korisničkog imena i lozinke zapamtit će vaš unos koji će se pojavljivati pri svakom novom posjetu.
+                                <b>Privremeni kolačići</b> (session cookies)
+                                Privremeni kolačići uklanjanju se s vašeg uređaja u trenutku zatvaranja web preglednika u kojem ste pregledavali web stranicu. Pomoću ovih kolačića stranice pohranjuju privremene podatke koji služe za njezino ispravno funkcioniranje.
+                                </p>
+                            </ul>
+                        </li>
+                        <li>
+                            <h2>OTKIRVANJE PODATAKA TREĆIM STRANAMA</h2>
+                            <p>Mi ne prodajemo, trgujemo niti na drugi način prenosimo vanjskim stranama Vaše osobno identificirajuće podatke, te niti jedna treća strana neće imati pristup takvim podacima.</p>
+                        </li>
+                        <li>
+                            <h2>POVEZNICE (LINKOVI) TREĆIH STRANA</h2>
+                            <p><p>S vremena na vrijeme, prema našoj diskrecijskoj ocjeni, mi možemo na našim web stranicama uključiti ili nuditi proizvode ili usluge treće strane. Ove internetske stranice trećih strana imaju zasebna i neovisna pravila o zaštiti privatnosti. Mi stoga nismo odgovorni i ne preuzimamo nikakvu odgovornost za sadržaj i aktivnosti takvih povezanih web stranica.
+                            Neovisno o tome, namjera nam je zaštititi integritet naših web stranica i pozdravljamo svaku Vašu povratnu informaciju (feedback) koju nam dostavite o tim web stranicama.
+                            </p></p>
+                        </li>
+                        <li>
+                            <h2>KAKO NAŠA WEB STRANICA RUKUJU SIGNALIMA ZABRANE PRAĆENJA (DO NOT TRACK SIGNALS)?</h2>
+                            <p>Mi poštujemo signale zabrane praćenja i stoga ne pratimo, ne postavljamo cookies niti koristimo oglašavanje kada je postavljen mehanizam preglednika na opciju Do Not Track (DNT).</p>
+                        </li>
+                        <li>
+                            <h2>OMOGUĆUJE LI NAŠA WEB STRANICA TREĆIM STRANAMA BIHEVIORALNO PRAĆENJE KORISNIKA?</h2>
+                            <p>Također je važno primijetiti da mi trećim stranama ne dozvoljavamo provođenje bihevioralnog praćenja korisnika.</p>
+                        </li>
+                        <li>
+                            <h2>IZJAVA O SIGURNOSTI KUPNJE KREDITNIM KARTICAMA</h2>
+                            <p>Povjerljivost Vaših informacija je zaštićena i osigurana korištenjem SSL enkripcije. Stranice za internetsko plaćanje su osigurane korištenjem Secure Socket Layer (SSL) protokola sa 128-bitnom enkripcijom podataka. SSL enkripcija je postupak kodiranja podataka radi sprečavanja neovlaštenog pristupa tijekom prijenosa podataka. Ovo omogućava siguran prijenos podataka i sprečava neovlašteni pristup podacima tijekom komunikacije između korisnika i Payment Gateway-a, kao i u obrnutom smjeru. Payment Gateway i financijske institucije razmjenjuju podatke koristeći svoju virtualnu privatnu mrežu (VPN), koja je također zaštićena od neovlaštenog pristupa. Webteh je ovlašteni pružatelj usluga plaćanja PCI DSS Razine 1.
+                            Trgovac ne pohranjuje brojeve kreditnih kartica, te isti nisu dostupni neovlaštenim osobama.
+                            </p>
+                        </li>
+                        <li>
+                            <h2>IZJAVA O SUGLASNOSTI ZA OBRADU OSOBNIH PODATAKA U MARKETINŠKE SVRHE</h2>
+                            <p>BHCargo će sa Vašim osobnim podacima postupati sukladno svim važećim propisima kojima se uređuje zaštita osobnih podataka uz primjenu odgovarajućih tehničkih i sigurnosnih mjera zaštite osobnih podataka od neovlaštenog pristupa, zlouporabe, otkrivanja, gubitka ili uništenja.
+                            BHCargo čuva povjerljivost Vaših osobnih podataka te omogućava pristup i priopćavanje osobnih podataka samo onim svojim zaposlenicima kojima su isti potrebni radi provedbe njihovih poslovnih aktivnosti, a trećim osobama samo u slučajevima koji su izričito propisani zakonom ili je dana vaša dozvola.
+                            </p>
+                        </li>
+
+                    </ol>
+
                 </div>
             </div>
         </div>

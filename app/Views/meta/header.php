@@ -33,7 +33,7 @@
 </div>
 
 <?php 
-if(!get_cookie('bh-cargo-basic-cookie')){
+if(!get_cookie('bh-cargo-basic-cookie') && !isset($_GET['dis'])){
     echo cookie_display(); 
 }
 ?>
