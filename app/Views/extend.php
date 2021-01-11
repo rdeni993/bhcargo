@@ -7,6 +7,25 @@
     <?php echo $nav; ?>
     <!-- EOF: Navigation -->
 
+    <?php 
+    
+    $notReady = true;
+
+    if($notReady):
+    ?>
+    <div class="container web-content" id="mainVueApp">
+        <div class="row py-80 paying-site">
+            <div class="col-lg-12">
+                <h1>Usluga plaćanja još uvijek nije moguća!</h1>
+                <p>Ne brinite se za trajanje Vašeg naloga, ukoliko usluga ne bude omogućena do isteka trajanja
+                    Istek roka vašeg naloga se produžava automatski!
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <?php else: ?>
+
     <div class="container web-content" id="mainVueApp">
         <div class="row py-80 paying-site">
             <div class="col-lg-4">
@@ -70,6 +89,8 @@
             </div>
         </div>
     </div>
+
+    <?php endif; ?>
 
 </div>
 <!-- EOF: Template -->
