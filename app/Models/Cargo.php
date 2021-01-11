@@ -127,6 +127,7 @@ class Cargo extends Model{
         users.name,
         users.surname,
         users.phone,
+        users.email,
         users.company,
         users.company_address
         ");

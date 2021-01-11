@@ -95,7 +95,8 @@ class Transport extends Model{
         users.surname,
         users.phone,
         users.company,
-        users.company_address
+        users.company_address,
+        users.email,
         ");
         $this->tb->join('users', 'users.id = transport.transport_owner');
         $this->tb->where("transport.id", $id);

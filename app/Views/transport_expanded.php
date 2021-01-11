@@ -23,6 +23,10 @@
                                 <?php echo $transport->phone; ?>
                             </li>
                             <li class="list-group-item border-0 py-1 px-0">
+                                <small class="text-secondary pr-2">E-mail / <br></small>
+                                <?php echo $transport->email; ?>
+                            </li>
+                            <li class="list-group-item border-0 py-1 px-0">
                                 <small class="text-secondary pr-2">Ime kompanije / <br></small>
                                 <?php echo $transport->company; ?>
                             </li>
