@@ -13,9 +13,10 @@
                 <div class="container mt-200">
                     <div class="row">
                         <div class="col-lg-7">
-                            <h1>Spremni da unaprijedite poslovanje!</h1>
+                            <h1>BH Cargo - berza tereta i transporta!</h1>
                             <p>Koristeći savremenu tehnolgiju sigurno i brzo vas povezujemo
-                            sa kompanijama koji su zainteresovani za Vaše Usluge ili Vaš teret.</p>
+                            sa kompanijama koji su zainteresovani za Vaše Usluge ili Vaš teret. Naš cilje je stvaranje jedinstvene 
+                            berze tereta i transporta na prostoru Bosne i Hercegovine!</p>
                             <a href="<?php echo site_url('login'); ?>" class="def-reg-btn">Prijavi se <i class="ml-3 fa fa-chevron-right"></i></a>
                         </div>
                     </div>
@@ -143,7 +144,7 @@
                 </div>
             </div>
             <div class="col-lg-12 slide-4 text-center py-80" data-aos="fade-in">
-                <h1>Kontaktirajte nas!</h1>
+                <h2>Kontaktirajte nas!</h2>
                 <p class="text-secondary mb-0">
                     <small>Ukoliko Vam je i dalje neophonda pomoć u odabiru ili niste sigurni način na koji funkcioniše</small>
                 </p>
