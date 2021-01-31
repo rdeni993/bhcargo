@@ -7,6 +7,7 @@
         <!-- Set Meta Charset --> 
         <meta name="author" content="denis_r_home@yahoo.com" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="<?php echo MAIN_DESCR; ?>" />
 
         <!-- Load CSS -->
         <link rel="shortcut icon" href="<?php echo base_url('favicon.ico'); ?>">
