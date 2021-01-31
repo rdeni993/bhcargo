@@ -27,7 +27,7 @@ class About extends BaseController{
             'header' => view('meta/header', []),
             'footer' => view('meta/footer'),
             'nav'    => view('parts/nav'),
-            'title'  => MAIN_TITLE
+            'title'  => MAIN_TITLE . ' | About us - O nama'
         ]);
 
     }

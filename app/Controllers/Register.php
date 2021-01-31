@@ -38,7 +38,7 @@ class Register extends BaseController{
             'nav'           => view('parts/nav'),
             'statusCode'    => $statusCode,
             'cmpTypes'      => $cmpTypeModel->getAll(),
-            'title'         => MAIN_TITLE
+            'title'         => MAIN_TITLE . ' | Registriraj se'
         ]);
 
     }

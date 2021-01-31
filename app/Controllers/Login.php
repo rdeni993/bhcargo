@@ -35,7 +35,7 @@ class Login extends BaseController{
             'footer'        => view('meta/footer'),
             'nav'           => view('parts/nav'),
             'statusCode'    => $statusCode,
-            'title'         => MAIN_TITLE
+            'title'         => MAIN_TITLE . ' | Prijavi se'
         ]);
 
     }
