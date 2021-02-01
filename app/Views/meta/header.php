@@ -26,6 +26,16 @@
         <script type="text/javascript" src="<?php echo base_url('public/assets/js/bootstrap.bundle.min.js') ?>"></script>
         <script type="text/javascript" src="<?php echo base_url('public/assets/js/script.min.js') ?>"></script>
 
+        <!-- Google Analytics --><!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-EYSZ75BQY2"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-EYSZ75BQY2');
+        </script>
+
     </head>
 <body>
 <!-- Load Page Content -->
