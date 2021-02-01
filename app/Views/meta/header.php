@@ -17,14 +17,14 @@
         <link rel="stylesheet" href="<?php echo base_url('public/assets/css/bootstrap-reboot.min.css'); ?>" type="text/css" />
         <link rel="stylesheet" href="<?php echo base_url('public/assets/css/bootstrap.min.css'); ?>" type="text/css" />
         <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-        <link rel="stylesheet" href="<?php echo base_url('public/assets/css/style.css'); ?>" type="text/css" />
-        <link rel="stylesheet" href="<?php echo base_url('public/assets/css/fa/css/font-awesome.css'); ?>" type="text/css" />
-        <link rel="stylesheet" href="<?php echo base_url('public/assets/css/mobile.css'); ?>" type="text/css" />
+        <link rel="stylesheet" href="<?php echo base_url('public/assets/css/style.min.css'); ?>" type="text/css" />
+        <link rel="stylesheet" href="<?php echo base_url('public/assets/css/fa/css/font-awesome.min.css'); ?>" type="text/css" />
+        <link rel="stylesheet" href="<?php echo base_url('public/assets/css/mobile.min.css'); ?>" type="text/css" />
 
         <!-- Load JS -->
         <script type="text/javascript" src="<?php echo base_url('public/assets/js/jquery.min.js') ?>"></script>
         <script type="text/javascript" src="<?php echo base_url('public/assets/js/bootstrap.bundle.min.js') ?>"></script>
-        <script type="text/javascript" src="<?php echo base_url('public/assets/js/script.js') ?>"></script>
+        <script type="text/javascript" src="<?php echo base_url('public/assets/js/script.min.js') ?>"></script>
 
     </head>
 <body>
