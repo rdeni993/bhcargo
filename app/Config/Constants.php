@@ -82,7 +82,6 @@ defined('EXIT__AUTO_MAX')      || define('EXIT__AUTO_MAX', 125); // highest auto
  * My Own Constants
  * 
  */
-defined('MAIN_TITLE')          || define('MAIN_TITLE', 'bhCargo'); // Title
 defined('DEF_DB_LIMIT')        || define('DEF_DB_LIMIT', 15); // Default Database limit (post per page)   
 
 
