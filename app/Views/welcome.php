@@ -74,6 +74,30 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-12 p-4 bg-light m-0 text-center">
+                <div class="container">
+                <h2 class="mt-4 mb-2">Kome je namjenjen BH Cargo servis</h2>
+                <p class="m-0">BH Cargo servis je namjenjen osobama i kompanijama čije poslovanje  je usko povezano sa transportom robe unutar Bosna i Hercegovine 
+                ali i van granica BiH.</p>
+                <p class="m-0">Osobe ili kompanije koje traže transport robe ili traže robu za popunu tovarnog prostora koristeći BH Cargo servis se mogu povezati 
+                sa osobama ili kompanijama koje nude transport ili koje nude robu za prijevoz!</p>
+                <div class="p-4">
+                    <div class="row my-4">
+                        <div class="col-lg-12">
+                            <p>Profili osoba kojima možemo pomoći</p>
+                        </div>
+                        <div class="col-lg-6">
+                            <h3><b class="text-dark">Tražim transport</b></h3>
+                            <p><small class="text-secondary">Tražim transport za prijevoz moje roba na već unaprijed određenu adresu.</small></p>
+                        </div>
+                        <div class="col-lg-6">
+                            <h3><b class="text-dark">Tražim robu</b></h3>
+                            <p><small class="text-secondary">Vršim prijevoz robe i tražim popunu tovarnog prostora!</small></p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
             <div class="col-lg-12 p-0 m-0 slide-3" id="site-prices">
                 <div class="container py-80">
                     <div class="row">

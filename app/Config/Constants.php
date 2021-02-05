@@ -97,7 +97,4 @@ defined('DEF_YEAR_L')                 || define('DEF_YEAR_L', (DEF_DAY_L * 365))
  * 
  */
 defined('MAIN_TITLE')          || define('MAIN_TITLE', 'BH Cargo - Berza tereta na području Bosna i Hercegovine'); // Title
-defined('MAIN_DESCR')          || define('MAIN_DESCR', 'BH Cargo je servis koji služi kao berza tereta i transporta na 
-                                          području Bosne i Hercegovine(BIH, BA). BH Cargo servis može pomoći onima koji
-                                          traže prijevoz robe ili traže popuno tovarnog prostora. Takođe pomaže i onima 
-                                          koji nude prijevoz robe i onima koji nude robu koju treba prevesti!'); // Title
+defined('MAIN_DESCR')          || define('MAIN_DESCR', 'BH Cargo je berza tereta namjenjena osobama ili kompanijama koje odgovaraju sljedećim profilima: tražim teret, transport, nudim tovarni prostor, prijevoz, pošiljku na prostoru Bosna i Hercegovine (BiH)'); // Title
