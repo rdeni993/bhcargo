@@ -264,21 +264,18 @@
 }
 
 .card-1 .card-header{
-    background: url("../img/plane.png")!important;
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
     height: 80px;
 }
 .card-2 .card-header{
-    background: url("../img/truck.png")!important;
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
     height: 80px;
 }
 .card-3 .card-header{
-    background: url("../img/train.png")!important;
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;

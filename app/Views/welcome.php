@@ -76,8 +76,8 @@
             </div>
             <div class="col-lg-12 p-4 bg-light m-0 text-center">
                 <div class="container">
-                <h2 class="mt-4 mb-2">Kome je namjenjen BH Cargo servis</h2>
-                <p class="m-0">BH Cargo servis je namjenjen osobama i kompanijama čije poslovanje  je usko povezano sa transportom robe unutar Bosna i Hercegovine 
+                <h2 class="mt-4 mb-4">Kome je namjenjen BH Cargo servis</h2>
+                <p class="m-0 mt-4">BH Cargo servis je namjenjen osobama i kompanijama čije poslovanje  je usko povezano sa transportom robe unutar Bosna i Hercegovine 
                 ali i van granica BiH.</p>
                 <p class="m-0">Osobe ili kompanije koje traže transport robe ili traže robu za popunu tovarnog prostora koristeći BH Cargo servis se mogu povezati 
                 sa osobama ili kompanijama koje nude transport ili koje nude robu za prijevoz!</p>
@@ -104,6 +104,7 @@
                         <div class="col-lg-12 mb-4" data-aos="flip-left">
                             <div class="card card-2">
                                 <div class="card-header">
+                                    <h2 class="mt-2"><b class="text-white">Bez rizika 0,0€</b></h2>
                                 </div>
                                 <div class="card-body">
                                     <p><b>Bez rizika</b></p>
@@ -112,7 +113,6 @@
                                     <p class="mt-0"><small>sa otključanim svim mogućnostima.</small></p>
                                 </div>
                                 <div class="card-footer">
-                                    <b>0,00 €</b>
                                     <a href="<?php echo site_url('register'); ?>" class="ml-4 def-reg-btn">
                                         <small>Registriraj se</small>
                                     </a>
@@ -120,8 +120,9 @@
                             </div>
                         </div>
                         <div class="col-lg-4" data-aos="flip-right">
-                            <div class="card card-1">
+                            <div class="card card-1 mt-2">
                                 <div class="card-header">
+                                    <h2 class="mt-2"><b class="text-white">3, 00€</b></h2>
                                 </div>
                                 <div class="card-body">
                                     <p><b>Sedmična pretplata</b></p>
@@ -135,8 +136,9 @@
                             </div>
                         </div>
                         <div class="col-lg-4" data-aos="flip-right">
-                            <div class="card card-2">
+                            <div class="card mt-2 card-2">
                                 <div class="card-header">
+                                    <h2 class="mt-2"><b class="text-white">10,00€</b></h2>
                                 </div>
                                 <div class="card-body">
                                     <p><b>Mjesečna pretplata</b></p>
@@ -150,8 +152,9 @@
                             </div>
                         </div>
                         <div class="col-lg-4" data-aos="flip-right">
-                            <div class="card card-3">
+                            <div class="card mt-2 card-3">
                                 <div class="card-header">
+                                    <h2 class="mt-2"><b class="text-white">60,00€</b></h2>
                                 </div>
                                 <div class="card-body">
                                     <p><b>Godišnja pretplata</b></p>
