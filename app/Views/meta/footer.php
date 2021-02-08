@@ -26,11 +26,14 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <h4>Tehnicka sluzba</h4>
-                        <p class="text-secondary">info@bhcargo.com</p>
+                        <a href="mailto:info@bhcargo.com">Pošalji E-mail</a>
                     </div>
                     <div class="col-lg-6">
                         <h4>Podrška korisnicima</h4>
-                        <p class="text-secondary">support@bhcargo.com</p>
+                        <a href="mailto:support@bhcargo.com">Pošalji E-mail</a>
+                    </div>
+                    <div class="col-lg-12">
+                        Navedeni linkovi otvaraju Vašu već podešenu email aplikaciju!
                     </div>
                 </div>
             </div>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ba">
+<html lang="sr">
     <head>
         <!-- Set Title -->
         <title><?php echo MAIN_TITLE; ?></title>

@@ -14,9 +14,9 @@
                     <div class="row">
                         <div class="col-lg-7">
                             <h1>BH Cargo - berza tereta i transporta!</h1>
-                            <p>Koristeći savremenu tehnolgiju sigurno i brzo vas povezujemo
-                            sa kompanijama koji su zainteresovani za Vaše Usluge ili Vaš teret. Naš cilje je stvaranje jedinstvene 
-                            berze tereta i transporta na prostoru Bosne i Hercegovine!</p>
+                            <p>BH Cargo je berza tereta i transporta namjenjena tržištu Bosne i Hercegovine. Servis je namjenjem osobama ili kompanijama 
+                            koje nude ili traže robu ili transport. Jednostavno povežite svoj tovarni prostor sa teretom na prostoru čitave Bosne i Hercegovine
+                            ili pronađite prave veze za dostavu Vašeg tereta na pravu adresu brzo i pouzdano.</p>
                             <a href="<?php echo site_url('login'); ?>" class="def-reg-btn">Prijavi se <i class="ml-3 fa fa-chevron-right"></i></a>
                         </div>
                     </div>
